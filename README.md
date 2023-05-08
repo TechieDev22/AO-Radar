@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/62183293/79035531-88908800-7b8d-11ea-9
 To shut down EveVision, simply select Quit from the tray menu where you change your volume and network settings in Windows.
 https://user-images.githubusercontent.com/62183293/79319759-bf8cd380-7ed6-11ea-981c-3e3076e9d0be.png
 
-# Extraction Password
+# Password
 Password: Evevon
 
 # Thanks
