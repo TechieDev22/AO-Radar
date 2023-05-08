@@ -7,7 +7,7 @@ EveVon is a EULA-legal way to extend the UI of EVE Online, bringing the tools yo
 In the near future, there will be a system allowing you to pick and choose (or develop!) plugins much like apps on your phone, complete with Android-style permissions for accessing your ESI data and EULA-legal-to-read files. You will be able to install and run anyone's tools while feeling safe about your computer and character's data.
 
 # Installation and Usage
-There is no complex setup process. Simply download the EveVon zip file from the releases page, extract it and run EXE once and forget about it.
+There is no complex setup process. Simply download the EveVon zip file from the releases page, extract it and run the EveVon file. 
 https://user-images.githubusercontent.com/62183293/79319758-bf8cd380-7ed6-11ea-902b-41fb27973048.png
 
 
@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/62183293/79323992-eea64380-7edc-11ea-9
 If you are ever on an official CCP website (i.e. for ESI authentication) the window will flash green all the way to the edge of the window as shown in the link below
 https://user-images.githubusercontent.com/62183293/79035531-88908800-7b8d-11ea-9b4b-eac06576b91a.gif
 
-To shut down EveVision, simply select Quit from the tray menu where you change your volume and network settings in Windows.
+To shut down EveVon, simply select Quit from the tray menu where you change your volume and network settings in Windows.
 https://user-images.githubusercontent.com/62183293/79319759-bf8cd380-7ed6-11ea-981c-3e3076e9d0be.png
 
 # Password
